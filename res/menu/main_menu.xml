@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_abstract" android:title="Abstract" android:showAsAction="never" />
+    <item android:id="@+id/menu_animals" android:title="Animals" android:showAsAction="never" />
+    <item android:id="@+id/menu_family" android:title="Family" android:showAsAction="never" />
+    <item android:id="@+id/menu_fashion" android:title="Fashion" android:showAsAction="never" />
+    <item android:id="@+id/menu_films" android:title="Films" android:showAsAction="never" />
+    <item android:id="@+id/menu_food" android:title="Food" android:showAsAction="never" />
+    <item android:id="@+id/menu_journalism" android:title="Journalism" android:showAsAction="never" />
+    <item android:id="@+id/menu_landscapes" android:title="Landscapes" android:showAsAction="never" />
+    <item android:id="@+id/menu_nature" android:title="Nature" android:showAsAction="never" />
+    <item android:id="@+id/menu_people" android:title="People" android:showAsAction="never" />
+    <item android:id="@+id/menu_sports" android:title="Sports" android:showAsAction="never" />
+    <item android:id="@+id/menu_street" android:title="Street" android:showAsAction="never" />
+    <item android:id="@+id/menu_transportation" android:title="Transportation" android:showAsAction="never" />
+    <item android:id="@+id/menu_travel" android:title="Travel" android:showAsAction="never" />
+    <item android:id="@+id/menu_underwater" android:title="Underwater" android:showAsAction="never" />
+    <item android:id="@+id/menu_wedding" android:title="Wedding" android:showAsAction="never" />
+</menu>
